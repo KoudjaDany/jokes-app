@@ -1,0 +1,39 @@
+body{
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.container h1{
+    font-family: cursive;
+    color: dimgray;
+}
+
+.container blockquote{
+    width: 80%;
+    height: 100px;
+    margin: 50px auto auto;
+    padding: 10px 10px 10px 5px;
+    border-left: chocolate 5px solid;
+    color: gray;
+    background: #eff1e4;
+    font-size: x-large;
+    text-align: center;
+}
+
+.refresh{
+    display: block;
+    padding: 10px;
+    width: 20%;
+    background: #1766d0;
+    color: white;
+    margin: 200px auto auto;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: larger;
+}
