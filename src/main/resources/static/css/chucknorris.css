@@ -9,6 +9,7 @@ body{
 .container h1{
     font-family: cursive;
     color: dimgray;
+    font-size: xx-large;
 }
 
 .container blockquote{
